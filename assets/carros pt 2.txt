@@ -1,0 +1,166 @@
+Aqui estão as especificações detalhadas dos carros que você mencionou:
+
+### 1. **BMW M3 (E46, por exemplo)**
+   - **Motorização**: 3.2L I6 (M3 E46)
+   - **Potência**: 343 cv (no M3 E46)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 5,1 segundos
+   - **Velocidade Máxima**: 250 km/h (limitada eletronicamente)
+   - **Transmissão**: Manual de 6 marchas ou automática de 6 marchas (SMG)
+   - **Peso**: Cerca de 1.500 kg
+
+### 2. **Porsche 911 GT3 RS**
+   - **Motorização**: 4.0L H6
+   - **Potência**: 520 cv (911 GT3 RS 991.2)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,2 segundos
+   - **Velocidade Máxima**: 312 km/h
+   - **Transmissão**: PDK (dupla embreagem) de 7 marchas
+   - **Peso**: Cerca de 1.420 kg
+
+### 3. **Dodge Demon**
+   - **Motorização**: 6.2L V8 sobrealimentado
+   - **Potência**: 840 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,3 segundos
+   - **Velocidade Máxima**: 270 km/h
+   - **Transmissão**: Automática de 8 marchas
+   - **Peso**: 1.865 kg
+
+### 4. **Dodge Challenger SRT**
+   - **Motorização**: 6.2L V8 sobrealimentado (versão Hellcat)
+   - **Potência**: 717 cv (SRT Hellcat)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,6 segundos
+   - **Velocidade Máxima**: 315 km/h
+   - **Transmissão**: Manual de 6 marchas ou automática de 8 marchas
+   - **Peso**: Aproximadamente 1.900 kg
+
+### 5. **Audi RS6**
+   - **Motorização**: 4.0L V8 biturbo
+   - **Potência**: 591 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,5 segundos
+   - **Velocidade Máxima**: 305 km/h
+   - **Transmissão**: Automática de 8 marchas (quatro rodas motrizes)
+   - **Peso**: Aproximadamente 2.100 kg
+
+### 6. **Mercedes-Benz AMG GT**
+   - **Motorização**: 4.0L V8 biturbo
+   - **Potência**: 530 cv (versão GT)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,8 segundos
+   - **Velocidade Máxima**: 318 km/h
+   - **Transmissão**: Automática de 7 marchas
+   - **Peso**: Aproximadamente 1.600 kg
+
+### 7. **Toyota Supra MK4 (A80)**
+   - **Motorização**: 3.0L inline-6 twin-turbo
+   - **Potência**: 280 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 5,1 segundos
+   - **Velocidade Máxima**: 250 km/h
+   - **Transmissão**: Manual de 6 marchas ou automática de 4 marchas
+   - **Peso**: Aproximadamente 1.550 kg
+
+### 8. **Koenigsegg Jesko**
+   - **Motorização**: 5.0L V8 biturbo
+   - **Potência**: 1.280 cv (versão normal) / 1.600 cv (versão E85)
+   - **Aceleração (0-100 km/h)**: Menos de 2,8 segundos
+   - **Velocidade Máxima**: 480 km/h (aproximadamente)
+   - **Transmissão**: Automática de 9 marchas (Light Speed Transmission)
+   - **Peso**: Aproximadamente 1.420 kg
+
+### 9. **Bugatti Chiron**
+   - **Motorização**: 8.0L W16 quad-turbo
+   - **Potência**: 1.500 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,5 segundos
+   - **Velocidade Máxima**: 420 km/h (limitada eletronicamente)
+   - **Transmissão**: Automática de 7 marchas
+   - **Peso**: Aproximadamente 1.900 kg
+
+### 10. **Ferrari LaFerrari**
+   - **Motorização**: 6.3L V12 + motor elétrico
+   - **Potência**: 950 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,6 segundos
+   - **Velocidade Máxima**: 352 km/h
+   - **Transmissão**: Automática de 7 marchas (Dual-Clutch)
+   - **Peso**: Aproximadamente 1.580 kg
+
+### 11. **Bentley Continental GT**
+   - **Motorização**: 4.0L V8 biturbo ou 6.0L W12
+   - **Potência**: 542 cv (V8) / 626 cv (W12)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 4,0 segundos (V8)
+   - **Velocidade Máxima**: 318 km/h (W12)
+   - **Transmissão**: Automática de 8 marchas
+   - **Peso**: Aproximadamente 2.200 kg
+
+### 12. **Rolls-Royce Phantom Sport Black**
+   - **Motorização**: 6.75L V12
+   - **Potência**: 563 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 5,0 segundos
+   - **Velocidade Máxima**: 250 km/h
+   - **Transmissão**: Automática de 8 marchas
+   - **Peso**: Aproximadamente 2.500 kg
+
+### 13. **Lamborghini Veneno**
+   - **Motorização**: 6.5L V12
+   - **Potência**: 750 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,8 segundos
+   - **Velocidade Máxima**: 355 km/h
+   - **Transmissão**: Automática de 7 marchas (LDF)
+   - **Peso**: Aproximadamente 1.490 kg
+
+### 14. **Chevrolet Camaro Exorcist**
+   - **Motorização**: 6.2L V8 supercharged
+   - **Potência**: 1.000 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,5 segundos
+   - **Velocidade Máxima**: 350 km/h
+   - **Transmissão**: Manual de 6 marchas ou automática de 10 marchas
+   - **Peso**: Aproximadamente 1.800 kg
+
+### 15. **McLaren Senna**
+   - **Motorização**: 4.0L V8 biturbo
+   - **Potência**: 800 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,7 segundos
+   - **Velocidade Máxima**: 208 mph (335 km/h)
+   - **Transmissão**: Automática de 7 marchas (Dual-Clutch)
+   - **Peso**: Aproximadamente 1.500 kg
+
+### 16. **Mazda RX-7**
+   - **Motorização**: 1.3L twin-rotor rotativo
+   - **Potência**: 276 cv (modelo FD)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 5,4 segundos
+   - **Velocidade Máxima**: 250 km/h
+   - **Transmissão**: Manual de 5 marchas ou automática de 4 marchas
+   - **Peso**: Aproximadamente 1.100 kg
+
+### 17. **Nissan GT-R R35**
+   - **Motorização**: 3.8L V6 biturbo
+   - **Potência**: 565 cv (GT-R base)
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,0 segundos
+   - **Velocidade Máxima**: 315 km/h
+   - **Transmissão**: Auto 
+
+### 19. **Kawasaki Ninja**
+   - **Motorização**: 1.000cc (Ninja ZX-10R)
+   - **Potência**: 200 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,0 segundos
+   - **Velocidade Máxima**: 299 km/h
+   - **Peso**: Aproximadamente 200 kg
+
+### 20. **Yamaha XJ6**
+   - **Motorização**: 600cc inline-4
+   - **Potência**: 78 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 4,5 segundos
+   - **Velocidade Máxima**: 215 km/h
+   - **Peso**: Aproximadamente 210 kg
+
+### 21. **Ducati Diavel**
+   - **Motorização**: 1.200cc L-twin
+   - **Potência**: 160 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 3,0 segundos
+   - **Velocidade Máxima**: 270 km/h
+   - **Peso**: Aproximadamente 210 kg
+
+### 22. **BMW S1000 RR**
+   - **Motorização**: 999cc inline-4
+   - **Potência**: 205 cv
+   - **Aceleração (0-100 km/h)**: Aproximadamente 2,7 segundos
+   - **Velocidade Máxima**: 299 km/h
+   - **Peso**: Aproximadamente 200 kg
+
+Esses carros e motos são uma verdadeira máquina de performance! Se precisar de mais detalhes sobre algum deles ou quiser comparar especificações, só avisar!

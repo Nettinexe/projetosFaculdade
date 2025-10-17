@@ -1,0 +1,136 @@
+-COMEÇO(CARROS)[
+Olá sou o  DriveAssist, o assistente virtual da loja KingMotors!
+Como posso ajudar hoje?]
+
+Oi meu nome é Bolsonaro e queria comprar um carro na sua loja = Você tem algum carro em mente?
+
+[SE SIM
+Sim = Qual seria? | Qual modelo você tem em mente? | Qual veículo você deseja? |
+---------------------------
+Estou interessado na BMW MK3 E46 = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na PORSCHE GT3 RS = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na DOGDE DEMON = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na DOGDE CHALLENGER SRT = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na AUDI RS6 = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na MERCEDES BENZ AMG GT = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na SUPRA MK4 = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na KOENIGSEGG JESKO = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na BUGATTI CHIRON = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as expecificações desse carro!|Maravilha!, vou te apresentar as expecificações desse carro!|
+Estou interessado na FERRARI LA FERRARI = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na BENTLEY CONTINENTAL GT = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na ROLLS ROYCE PHANTOM SPORT BLACK = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na LAMBORGHINI VENENO = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na MCLAREN SENNA = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na MAZDA RX7 = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|
+Estou interessado na NISSAN GTR = Ótima escolha, vou te apresentar as especificações desse carro!| Excelente escolha, vou te apresentar as especificações desse carro!|Maravilha!, vou te apresentar as especificações desse carro!|]
+
+
+(*) = Infelizmente não temos esse carro disponível no momento, você tem interesse em alguma moto?
+Sim = Ótimo, vou te apresentar o catálogo de motos disponíveis!
+Não = Ok! Vou encerrar esse diálogo, digite 1 para começar um novo, assim que novos veículos ficarem disponíveis no nosso catálogo você receberá uma notificação através desse contato! Obrigado pela preferência!
+
+**ESPECIFICAÇÕES**
+
+------------------
+Essas características te agradaram?
+
+SE SIM[ 
+Sim = Ótimo! Vamos dar início ao processo de compra! | Maravilha! Vamos prosseguir com a compra! | Excelente! Vamos dar seguimento ao processo de compra!
+-----------------
+Você deseja obter o nosso plano especial de garantia e segurança?
+Nosso plano fornece para você 3 anos de garantia por nossa conta!\nAlém disso, você ganhará desconto de 40% em qualquer seguradora brasileira durante 5 anos!
+
+SIM = Ótimo! Vamos para a próxima seção!
+Não = Ok! Vamos para a próxima seção!
+-----------------
+\nVocê deseja adquirir o nosso plano de experiência premium?\nAtravés desse plano nós oferecemos entrega à domicílio VIP!\nTambém oferecemos a primeira revisão do veículo grátis!\nAlém disso, o plano te oferece uma consultoria de estilo(combinação de roupas, acessórios e veículo)
+
+SIM = Ótimo! Vamos para a próxima seção!
+Não = Ok! Vamos para a próxima seção!
+-----------------
+
+\nVocê deseja adquirir o nosso plano de Facilidades financeiras?\nEsse plano oferece à você um financiamento especial do veículo!\nAlém disso, oferecemos através desse plano a opção da troca do seu usado, mediante revisão prévia!\nE também oferecemos o pagamento facilitado através de criptomoedas!
+
+SIM = Ótimo! Vou encaminhar você para um atendente da nossa loja e ele dará seguimento a sua compra! Muito obrigado pela preferência!
+Não = Ok! Vou encaminhar você para um atendente da nossa loja e ele dará seguimento a sua compra! Muito obrigado pela preferência!]]
+
+SE NÃO[
+Não = Ok! Irei te apresentar o catálogo de carros disponíveis | Ok, vou te apresentar nosso acervo de carros!
+
+
+**CATÁLOGO DE CARROS**
+
+Algum carro te interessou? | Algum carro chamou sua atenção? | Você ja tem uma escolha? | Já escolheu algum carro? 
+
+Sim = Ótimo! Qual veículo te interessou?
+**Volta lá em cima na escolha do cliente**
+
+Não = Que pena! Infelizmente atualmente esses carros não estão disponíveis na nossa loja! Você não teria interesse em alguma moto?
+Sim= Ótimo, vou te apresentar o catálogo de motos disponíveis!
+Não= Ok! Vou encerrar esse diálogo, digite 1 para começar um novo, assim que novos veículos ficarem disponíveis no nosso catálogo você receberá uma notificação através desse contato! Obrigado pela preferência!]
+
+
+COMEÇO(MOTOS)[
+
+Olá sou o  DriveAssist, o assistente virtual da loja KingMotors!
+Como posso ajudar hoje?]
+
+Oi meu nome é Bolsonaro e queria comprar uma moto na sua loja = Você tem algum moto em mente?
+
+
+[SE SIM
+Sim = Qual seria? | Qual modelo você tem em mente? | Qual veículo você deseja? 
+
+Estou interessado na KAWASAKI NINJA = Ótima escolha, vou te apresentar as especificações dessa moto!| Excelente escolha, vou te apresentar as especificações dessa moto!|Maravilha!, vou te apresentar as especificações dessa moto!|
+Estou interessado na YAMAHA XJ6 = Ótima escolha, vou te apresentar as especificações dessa moto!| Excelente escolha, vou te apresentar as especificações dessa moto!|Maravilha!, vou te apresentar as especificações dessa moto!|
+Estou interessado na DUCATI DIAVEL  = Ótima escolha, vou te apresentar as especificações dessa moto!| Excelente escolha, vou te apresentar as especificações dessa moto!|Maravilha!, vou te apresentar as especificações dessa moto!|
+Estou interessado na BMW S1000 RR = Ótima escolha, vou te apresentar as especificações dessa moto!| Excelente escolha, vou te apresentar as especificações dessa moto!|Maravilha!, vou te apresentar as especificações dessa moto!|
+
+
+(*) = Infelizmente não temos essa moto disponível no momento, você tem interesse em algum carro?
+Sim = Ótimo, vou te apresentar o catálogo de carros disponíveis!
+Não = Ok! Vou encerrar esse diálogo, digite 1 para começar um novo, assim que novos veículos ficarem disponíveis no nosso catálogo você receberá uma notificação através desse contato! Obrigado pela preferência!
+
+Não = Ok! Irei te apresentar o catálogo de motos disponíveis | Ok, vou te apresentar nosso acervo de motos!
+
+**Catálogo**
+
+**Características**
+
+Alguma moto te interessou? | Alguma moto chamou sua atenção? | Você ja tem uma escolha? | Já escolheu alguma moto? 
+
+Sim = Ótimo! Qual veículo te interessou?
+**Volta lá em cima na escolha do cliente**
+
+Não = Que pena! Infelizmente atualmente esses motos não estão disponíveis na nossa loja! Você não teria interesse em alguma carro?
+Sim= Ótimo, vou te apresentar o catálogo de carros disponíveis!
+Não= Ok! Vou encerrar esse diálogo, digite 1 para começar um novo, assim que novos veículos ficarem disponíveis no nosso catálogo você receberá uma notificação através desse contato! Obrigado pela preferência!]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                                                                          

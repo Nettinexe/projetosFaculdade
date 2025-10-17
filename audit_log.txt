@@ -1,0 +1,13 @@
+[2025-10-02T14:24:59] Candidato cadastrado: 7 - Eduardo (ff) img=True
+[2025-10-02T14:26:13] Eleitor cadastrado: 01 (Eduardo)
+[2025-10-02T14:27:19] Eleição ABERTA.
+[2025-10-02T14:27:29] Voto registrado: tipo=VÁLIDO
+[2025-10-02T14:28:19] Eleição FECHADA.
+[2025-10-03T00:55:56] Eleição ABERTA.
+[2025-10-03T00:56:11] Eleitor cadastrado: 02 (Junior)
+[2025-10-03T00:56:35] Candidato cadastrado: 02 - Junior (ff) img=True
+[2025-10-03T00:57:22] Voto registrado: tipo=VÁLIDO
+[2025-10-03T14:57:49] Candidato cadastrado: 67 - 67 (67) img=True
+[2025-10-03T14:58:17] Eleitor cadastrado: 03 (Miguel)
+[2025-10-03T14:58:27] Eleição ABERTA.
+[2025-10-03T14:59:20] Voto registrado: tipo=VÁLIDO
