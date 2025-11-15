@@ -1,53 +1,31 @@
 {
   "meta": {
     "name": "Eleição",
-    "created_at": "2025-10-02T14:23:45",
+    "created_at": "2025-11-04T21:38:59",
     "admin_pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "is_open": true,
     "auto_register_voter": false
   },
   "candidates": {
     "7": {
-      "name": "Eduardo",
-      "party": "ff",
-      "image": "C:/Users/setor/Pictures/Screenshots/Captura de tela 2025-09-28 000346.png"
-    },
-    "02": {
-      "name": "Junior",
-      "party": "ff",
-      "image": "C:/Users/setor/Pictures/Screenshots/Captura de tela 2025-09-28 002554.png"
-    },
-    "67": {
-      "name": "67",
-      "party": "67",
-      "image": "C:/Users/setor/Pictures/Screenshots/Captura de tela 2025-09-28 002830.png"
+      "name": "CR7",
+      "party": "PT",
+      "image": "C:/Users/setor/Downloads/Lucid_Origin_Create_an_image_of_a_brand_ambassador_for_a_digit_1.jpg"
     }
   },
   "voters": {
     "01": {
-      "name": "Eduardo",
-      "has_voted": true,
-      "registered_at": "2025-10-02T14:26:12"
-    },
-    "02": {
-      "name": "Junior",
-      "has_voted": true,
-      "registered_at": "2025-10-03T00:56:11"
-    },
-    "03": {
-      "name": "Miguel",
-      "has_voted": true,
-      "registered_at": "2025-10-03T14:58:17"
+      "name": "CR7",
+      "has_voted": false,
+      "registered_at": "2025-11-04T21:41:00"
     }
   },
   "tally": {
     "valid": {
-      "7": 1,
-      "02": 1,
-      "67": 1
+      "7": 0
     },
     "blank": 0,
     "null": 0,
-    "total": 3
+    "total": 0
   }
 }
